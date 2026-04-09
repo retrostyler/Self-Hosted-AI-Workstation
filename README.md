@@ -2,16 +2,16 @@
 
 A personal GPU-powered AI workstation running 10+ open-source LLMs locally — zero cloud cost, full privacy, publicly accessible via Cloudflare Tunnel.
 
-
+[![Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge)](https://drive.google.com/file/d/1ySLEu5-VC77qbfSXm1RnrxKlJImO9sKh/view?usp=sharing)
 
 ## 📽️ Demo
 
 > A full walkthrough of the workstation — model switching, local inference speed, and guest access.
 
-[Watch Demo Video](./demo/demo.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1ySLEu5-VC77qbfSXm1RnrxKlJImO9sKh/view?usp=sharing)
 
 <!-- OR if you upload to YouTube/Loom -->
-<!-- [![Demo Video](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://your-video-link-here) -->
+
 
 ---
 
